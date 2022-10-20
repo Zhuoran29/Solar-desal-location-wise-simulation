@@ -1,0 +1,1 @@
+City,State,Country,Latitude,Longitude,avg_DNI,avg_GHI,avg_Tdry,avg_Wspd,avg_day,spring_DNI,summer_DNI,autumn_DNI,winter_DNI,spring_GHI,summer_GHI,autumn_GHI,winter_GHI,spring_Tdry,summer_Tdry,autumn_Tdry,winter_Tdry,spring_Wspd,summer_Wspd,autumn_Wspd,winter_Wspd,spring_day,summer_day,autumn_day,winter_day,annual_energy,capacity_factor,annual_electricity_consumption,lcoh
